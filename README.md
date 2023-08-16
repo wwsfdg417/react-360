@@ -10,10 +10,6 @@ React 360 is a framework for the creation of interactive 360 experiences that ru
 
 Next, install the React 360 CLI – a command-line tool that generates the basic layout of new projects.
 
-```
-npm install -g react-360-cli
-```
-
 Or
 
 ```
